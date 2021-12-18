@@ -1,0 +1,15 @@
+{
+  "name": "ram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mertumay",
+  "license": "ISC",
+  "dependencies": {
+    "discord-autorole-badges": "^2.0.1",
+    "discord.js": "^13.3.1"
+  }
+}
