@@ -20,7 +20,7 @@ const {Client} = require('discord.js');
 const client = new Client({ intents: 32767})
 
 
-let manager = new Manager(client, {
+**let manager = new Manager(client, {
     DISCORD_EMPLOYEE: "Role_ID",
     PARTNERED_SERVER_OWNER: "Role_ID",
     HYPESQUAD_EVENTS: "Role_ID",
@@ -33,7 +33,7 @@ let manager = new Manager(client, {
     BUGHUNTER_LEVEL_2: "Role_ID",
     VERIFIED_BOT: "Role_ID",
     EARLY_VERIFIED_BOT_DEVELOPER: "Role_ID",
-    DISCORD_CERTIFIED_MODERATOR: "Role_ID",
+    DISCORD_CERTIFIED_MODERATOR: "Role_ID",**
 
 })
 client.on("guildMemberAdd", async (member) => {
