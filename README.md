@@ -8,5 +8,10 @@ npm install
 ```
 
 ### Run
+```md
+node index.js
+```
 
+## Finished
+After running, your bot is now active and gives automatic badge role to people who enter your server
 
