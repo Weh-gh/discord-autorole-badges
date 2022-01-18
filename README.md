@@ -7,7 +7,7 @@ The purpose of this GitHub, Discord Autorole Badges code resource is if a person
 npm install
 ```
 
-### Run
+## Run
 ```md
 node index.js
 ```
