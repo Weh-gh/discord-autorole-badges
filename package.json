@@ -1,12 +1,12 @@
 {
-  "name": "It-was-published",
+  "name": "Autorole-badges",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mertumay",
+  "author": "volty",
   "license": "ISC",
   "dependencies": {
     "discord-autorole-badges": "^2.0.1",
