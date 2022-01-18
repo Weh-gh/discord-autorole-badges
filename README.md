@@ -13,7 +13,7 @@ node index.js
 ```
 
 ## Quick Example
-```md
+```js
 const {Manager} = require('discord-autorole-badges');
 const {Client} = require('discord.js');
 const client = new Client({ intents: 32767})
