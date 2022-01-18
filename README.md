@@ -12,6 +12,22 @@ npm install
 node index.js
 ```
 
+```md
+    DISCORD_EMPLOYEE: "role_id",
+    PARTNERED_SERVER_OWNER: "role_id",
+    HYPESQUAD_EVENTS: "role_id",
+    BUGHUNTER_LEVEL_1: "role_id",
+    HOUSE_BRAVERY: "role_id",
+    HOUSE_BRILLIANCE: "role_id",
+    HOUSE_BALANCE: "role_id",
+    EARLY_SUPPORTER: "role_id",
+    TEAM_USER: "role_id",
+    BUGHUNTER_LEVEL_2: "role_id",
+    VERIFIED_BOT: "role_id",
+    EARLY_VERIFIED_BOT_DEVELOPER: "role_id",
+    DISCORD_CERTIFIED_MODERATOR: "role_id",
+```
+
 ### Finished
 After running, your bot is now active and gives automatic badge role to people who enter your server
 
