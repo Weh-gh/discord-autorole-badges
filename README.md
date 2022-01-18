@@ -12,6 +12,7 @@ npm install
 node index.js
 ```
 
+## All thanks to this
 ```md
     DISCORD_EMPLOYEE: "role_id",
     PARTNERED_SERVER_OWNER: "role_id",
