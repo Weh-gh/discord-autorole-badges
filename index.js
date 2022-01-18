@@ -27,4 +27,4 @@ client.on("ready", () => {
     console.log("Discord login successfully")
 })
 
-client.login(token)
+client.login(Discord_Bot_Token)
