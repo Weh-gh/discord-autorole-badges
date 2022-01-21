@@ -24,7 +24,7 @@ client.on("guildMemberAdd", async (member) => {
 })
 
 client.on("ready", () => {
-    console.log("Discord login successfully")
+    console.log("Discord login successful!")
 })
 
 client.login(Discord_Bot_Token)
