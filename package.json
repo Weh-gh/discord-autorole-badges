@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "volty",
+  "author": "paprik",
+  "contributors": "paprik#3994","advellerd#7059"
   "license": "ISC",
   "dependencies": {
     "discord-autorole-badges": "^2.0.1",
