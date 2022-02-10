@@ -16,7 +16,7 @@ node index.js
 ```js
 const {Manager} = require('discord-autorole-badges');
 const {Client} = require('discord.js');
-const client = new Client({ intents: 32767})
+const client = new Client({ intents: 32767 })
 
 
 let manager = new Manager(client, {
