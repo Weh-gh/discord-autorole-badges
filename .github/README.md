@@ -13,7 +13,7 @@ npm install
 node index.js
 ```
 
-## Quick Example
+## Example
 ```js
 const {Manager} = require('discord-autorole-badges');
 const {Client} = require('discord.js');
