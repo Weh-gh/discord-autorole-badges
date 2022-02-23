@@ -27,4 +27,4 @@ client.on("ready", () => {
     console.log("Discord login successful!")
 })
 
-client.login("token");
+client.login(token);
