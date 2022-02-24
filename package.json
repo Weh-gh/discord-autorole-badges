@@ -1,9 +1,8 @@
 {
-  "name": "Autorole-badges",
+  "name": "autorole-badges",
   "version": "1.0.0",
   "description": "When a user joins your server on Discord and the Bot detects that user's badges, it gives them the badges they have.",
   "author": "paprik",
-  "contributors": ["paprik#3994", "advellerd#7059"]
   "main": "index.js",
   "scripts": {
     "test": "node ."
