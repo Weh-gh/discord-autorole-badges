@@ -48,7 +48,3 @@ client.on("ready", () => {
 client.login(token);
 
 ```
-
-## Need some help?
-Here are some Discord servers that can help you out with everything Discord VS Code:
-The [Official Discord VS Code server](https://discord.gg/EjcZJedsMe) This server is the official community dedicated to helping you with Discord Visual Studio Code common issues. Discord Visual Studio Code members working on developer tools and feature extensions is a community for developers to support each other with direct access. An official place to go for your questions about the app and the littlest things you're stuck with. you can join the server
