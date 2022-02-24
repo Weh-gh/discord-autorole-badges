@@ -37,6 +37,7 @@ let manager = new Manager(client, {
     DISCORD_CERTIFIED_MODERATOR: "role_id",
 
 })
+
 client.on("guildMemberAdd", async (member) => {
     await manager.setRole(member);
 })
