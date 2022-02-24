@@ -2,7 +2,7 @@
 
 The purpose of this GitHub, Discord Autorole Badges code resource is if a person with a badge gives an automatic badge role when you join your server
 
-## Installing
+## Installation
 #### It will not work if you do not have NodeJS installed on your computer. Download here: [Node.js](https://nodejs.org)
 #### Requires Node v16 or higher.
 ```md
