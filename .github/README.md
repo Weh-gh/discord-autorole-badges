@@ -1,15 +1,18 @@
+# When a member joins your server on Discord, it automatically detects their badge and assigns their badge as a role
+
+
 # Discord Autorole Badges
 
-#### When a user joins your server on Discord, the Bot detects the badges of that user and examines the badges owned by that user and issues the badges.
+When a user joins your server on Discord, the Bot detects the badges of that user and examines the badges owned by that user and issues the badges.
 
-#### It will not work if you do not have NodeJS installed on your computer. We do not recommend downloading Node.js Current because it is a new version, so you may encounter errors, so download it as Node.js (LTS). Download here: [Node.js](https://nodejs.org)
+It will not work if you do not have NodeJS installed on your computer. We do not recommend downloading Node.js Current because it is a new version, so you may encounter errors, so download it as Node.js (LTS). Download here: [Node.js](https://nodejs.org)
 
-## Installation
+### Installation
 ```md
 npm install
 ```
 
-## Run
+### Run
 ```md
 node index.js
 ```
