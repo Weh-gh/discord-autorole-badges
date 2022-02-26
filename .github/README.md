@@ -10,7 +10,7 @@ It will not work if you do not have NodeJS installed on your computer. We do not
 npm install
 ```
 
-### Run
+### Start up
 ```md
 node index.js
 ```
