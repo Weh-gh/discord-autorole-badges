@@ -3,7 +3,8 @@
 
 # Discord Autorole Badges
 
-It will not work if you do not have NodeJS installed on your computer. We do not recommend downloading Node.js Current because it is a new version, so you may encounter errors, so download it as Node.js (LTS). Download here: [Node.js](https://nodejs.org)
+## Knowledge Required to Operate
+1: (<strong>Compulsory</strong>) It will not work if you do not have NodeJS installed on your computer. Download Node.js here: [Download Nodejs](https://node.js.org)
 
 ### Installation
 ```md
