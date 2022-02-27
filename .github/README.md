@@ -4,7 +4,7 @@
 # Discord Autorole Badges
 
 ## Knowledge Required to Operate
-1: (<strong>Compulsory</strong>) It will not work if you do not have NodeJS installed on your computer. Download Node.js here: [Download Nodejs](https://node.js.org)
+1: (<strong>Compulsory</strong>) It will not work if you do not have NodeJS installed on your computer. Download Node.js here: [Download Nodejs](https://nodejs.org)
 
 ### Installation
 ```md
