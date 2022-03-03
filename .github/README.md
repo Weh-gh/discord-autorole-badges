@@ -2,6 +2,7 @@
 
 
 # Discord Autorole Badges
+[![DVSCode server](https://discord.com/api/guilds/913547472696115250/widget.png?style=banner1)](https://discord.gg/qsG7PSB7Wg)
 
 ## Knowledge Required to Operate
 1: (<strong>Compulsory</strong>) It will not work if you do not have NodeJS installed on your computer. Download Node.js here: [Download Nodejs](https://nodejs.org)
